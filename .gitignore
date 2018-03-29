@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+# idea
+.vscode
+.idea
+
+# temp data
+out-ts
+lib
