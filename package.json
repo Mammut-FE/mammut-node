@@ -1,5 +1,5 @@
 {
-  "name": "dev-server",
+  "name": "mammut-node",
   "description": "使用 HTTP/2 的开发服务器",
   "version": "0.0.1",
   "main": "lib/index.js",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mammut-FE/dev-server.git"
+    "url": "git+https://github.com/Mammut-FE/mammut-node.git"
   },
   "keywords": [
     "node",
@@ -35,7 +35,7 @@
   "author": "lleohao <lleohao@hotmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mammut-FE/dev-server/issues"
+    "url": "https://github.com/Mammut-FE/mammut-node/issues"
   },
-  "homepage": "https://github.com/Mammut-FE/dev-server#readme"
+  "homepage": "https://github.com/Mammut-FE/mammut-node#readme"
 }
